@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weight Converter</string>
+    <string name="weight_converter">Killogram To Lbs</string>
+    <string name="weight_killogram">Killogranm (kg)</string>
+    <string name="weight_lbs">lbs</string>
+    <string name="convert_button">Convert</string>
+    <string name="weight_killogram_invalid">Killogram must be filled!.</string>
+    <string name="killogram_Tittle">Killogram To Lbs</string>
+    <string name="satuan_killogram">Satuan (kg)</string>
+    <string name="hasil">Hasil :</string>
+</resources>
